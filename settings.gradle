@@ -1,0 +1,5 @@
+rootProject.name='05_17_Gesture'
+include ':app'
+include ':ongesturelistener'
+include ':ondoubletaplistener'
+include ':simpleongesturelistener'
